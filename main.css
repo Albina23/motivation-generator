@@ -1,0 +1,17 @@
+body { 
+font-family: sans-serif;
+text-align: center;
+margin-top: 100px;
+background: #f0f8ff;}
+
+button { 
+padding: 10px 20px;
+font-size: 18px;
+cursor: pointer;
+}
+
+#quote {
+margin-top: 30px;
+font-size: 24px;
+color: #333;
+}
